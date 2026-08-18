@@ -69,19 +69,21 @@
   Service Integration · Reporting · Document Workflows · Debugging · Transactional Data Integrity
 </p>
 
-<h2 align="center">GitHub Statistics</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=alejandro-briones&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    width="62%"
+    src="https://github-stats-extended.vercel.app/api?username=alejandro-briones&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
     alt="GitHub Statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-briones&layout=compact&hide_border=true&theme=transparent"
-    alt="Top Languages"
+    width="92%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-briones&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
