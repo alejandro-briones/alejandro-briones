@@ -11,14 +11,27 @@
 </p>
 
 <p align="center">
-  <a href="https://alejandro-briones.github.io/alejandro-briones-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=blazor&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/josealejandrobrionesarroyo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=j.alejandro.briones.a22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<h2 align="center">Portfolio</h2>
+
+<p align="center">
+  Personal developer portfolio built from scratch with <strong>Blazor WebAssembly and .NET 10</strong>,
+  showcasing my professional experience, selected projects, technical stack and software engineering background.
+</p>
+
+<p align="center">
+  <a href="https://alejandro-briones.github.io/alejandro-briones-portfolio/">
+    <img src="https://img.shields.io/badge/View_Live_Portfolio-58A6FF?style=for-the-badge&logo=blazor&logoColor=white" alt="View Live Portfolio" />
+  </a>
+  <a href="https://github.com/alejandro-briones/alejandro-briones-portfolio">
+    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio Source Code" />
   </a>
 </p>
 
@@ -81,26 +94,6 @@
 
 <p align="center">
   Service Integration · Reporting · Document Workflows · Debugging · Transactional Data Integrity
-</p>
-
-<h2 align="center">Portfolio</h2>
-
-<p align="center">
-  My personal developer portfolio, built from scratch with <strong>Blazor WebAssembly and .NET 10</strong>,
-  showcasing my professional experience, selected projects, technical stack and software engineering background.
-</p>
-
-<p align="center">
-  <a href="https://alejandro-briones.github.io/alejandro-briones-portfolio/">
-    <img src="https://img.shields.io/badge/View_Live_Portfolio-58A6FF?style=for-the-badge&logo=blazor&logoColor=white" alt="View Live Portfolio" />
-  </a>
-  <a href="https://github.com/alejandro-briones/alejandro-briones-portfolio">
-    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio Source Code" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>C# · .NET 10 · Blazor WebAssembly · Razor Components · GitHub Actions · GitHub Pages</strong>
 </p>
 
 <h2 align="center">GitHub Activity</h2>
