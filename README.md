@@ -11,6 +11,12 @@
 </p>
 
 <p align="center">
+  <a href="https://alejandrobriones.dev">
+    alejandrobriones.dev
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/josealejandrobrionesarroyo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -27,7 +33,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alejandro-briones.github.io/alejandro-briones-portfolio/">
+  <a href="https://alejandrobriones.dev">
     <img src="https://img.shields.io/badge/View_Live_Portfolio-58A6FF?style=for-the-badge&logo=blazor&logoColor=white" alt="View Live Portfolio" />
   </a>
   <a href="https://github.com/alejandro-briones/alejandro-briones-portfolio">
