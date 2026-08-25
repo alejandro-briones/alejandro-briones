@@ -113,13 +113,5 @@
 </p>
 
 <p align="center">
-  <img
-    width="92%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-briones&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
-<p align="center">
   <strong>C# · .NET · SQL Server · Full Stack Development · Enterprise Software</strong>
 </p>
